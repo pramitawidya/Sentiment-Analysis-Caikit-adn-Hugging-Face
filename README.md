@@ -1,6 +1,12 @@
-## Text Sentiment Analysis using Caikit and Hugging Face
-## IBMSkillsNetwork GPXX0PYAEN
----
+<b><h1 align="center"> Sentiment Analysis Caikit and Hugging Face</h1></b>
+<p align="center">  Caikit membantu dalam pembuatan dan penerapan model pembelajaran mesin, sementara Hugging Face menyediakan model-model NLP canggih yang sudah ditetapkan sebelumnya untuk memahami dan mengklasifikasikan sentimen dalam teks. </p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
+</div>
+
 ### Author : Cognitive Class AI
 ### Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai
 ---
