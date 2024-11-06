@@ -7,11 +7,9 @@
 
 </div>
 
-### - Name : Pramita Widya Ningrum
-### - Program : IBM Advance AI
+### Name : Pramita Widya Ningrum
+### Program : IBM Advance AI
 
-### Tech Stack
-### - Python
 --- 
 ### Documentation
 1. Install the requirements
