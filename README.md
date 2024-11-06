@@ -5,7 +5,7 @@
 ### Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai
 ---
 ### Mentee Info
-### - Name : Arifian Saputra
+### - Name : Pramita Widya Ningrum
 ### - Program : IBM Advance AI @ Infinite Learning
 
 ### Tech Stack
